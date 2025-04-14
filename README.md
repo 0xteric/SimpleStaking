@@ -1,4 +1,4 @@
-# 🪙 StakingGigaWei
+# Staking Smart Contract
 
 A simple and secure staking contract for ERC20 tokens, designed to support delayed unstaking with a 7-day unlock period. Intended to be used in systems where voting power or governance is based on staked token amounts.
 
